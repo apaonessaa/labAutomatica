@@ -1,3 +1,4 @@
-# labAutomatica
+# Laboratorio di Automatica
 
-Progetto del corso di Laboratorio di Automatica che ho frequentato nel 2022. Il lavoro è basato sull'utilizzo di MatLab e simulink per progettare un regolatore standard digitale, per approssimare la dinamica di un processo mediante modello ARMA ed infine per utilizzare l'algoritmo DFT per mostrare ampiezze e fasi di un segnale.
+Progetto presentato per il corso di "Laboratorio di Automatica" frequentato nel 2022. 
+Il lavoro è incentrato sull'utilizzo di MatLab e Simulink per la progettazione di un regolatore standard digitale, con l'obiettivo di approssimare la dinamica di un processo mediante modello ARMA ed alla fine utilizzare l'algoritmo DFT - Discrete Fourier Transform - per mostrare ampiezza e fase di un segnale.
